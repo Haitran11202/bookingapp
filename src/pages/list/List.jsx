@@ -1,6 +1,9 @@
+import Header from "../../components/header/Header";
+import Navbar from "../../components/navbar/Navbar.jsx";
 function List() {
     return <div>
-        list
+        <Navbar/>
+        <Header type="list"/>
     </div>
 }
 

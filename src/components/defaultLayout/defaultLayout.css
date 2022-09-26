@@ -1,6 +1,12 @@
 :root{
     --width-container: 1024px;
 }
+*{
+    box-sizing: border-box;
+}
+body{
+    min-height: 1000px;
+}
 .bookingPage{
     font-family: Arial, Helvetica, sans-serif;
 }
