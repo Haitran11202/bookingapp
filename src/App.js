@@ -8,6 +8,7 @@ import Hotel from "./pages/hotel/Hotel.jsx";
 import List from "./pages/list/List.jsx";
 function App() {
   return (
+    
     <div className="App">
       <BrowserRouter>
         <Routes>

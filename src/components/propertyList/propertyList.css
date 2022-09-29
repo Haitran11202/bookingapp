@@ -6,6 +6,7 @@
     gap: 20px;
 }
 .pListItem{
+    flex: 1;
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
@@ -14,4 +15,11 @@
     object-fit: cover;
     width: 100%;
     height: 150px;
+}
+.pListTitle>h1{
+    font-size: 18px;
+}
+.pListTitle>h2{
+    font-size: 14px;
+    font-weight: 300;
 }
